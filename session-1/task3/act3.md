@@ -34,7 +34,7 @@ What is wrong with this case?
 
 **Gradescope autograding of C code**
 
-To autograde we first have to compile the submitted code before testing.
+When we submit C code to Gradescope the autograder first has to compile the submitted code before testing.
 
 Test your code "hello1.c" with the "Classwork 2.3 - practice test" submission autograder
 - Submit correct code
