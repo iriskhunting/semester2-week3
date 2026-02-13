@@ -16,5 +16,13 @@ int main( void ) {
     printf("Int size is %ld bytes\n",sizeof(testInt));
     printf("Float size is %ld bytes\n",sizeof(testFloat));
 
+    short testShort;
+    long testLong;
+    double testDouble;
+    
+    printf("Short int size is %ld bytes\n",sizeof(testShort));
+    printf("Long int size is %ld bytes\n",sizeof(testLong));
+    printf("Double size is %ld bytes\n",sizeof(testDouble));
+
     return 0;
 }
